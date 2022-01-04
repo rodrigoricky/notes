@@ -1,2 +1,4 @@
-# notes
-📝 My online class notes, made to make myself hate school a little less
+Online School
+---
+
+📚 My online class notes, helps me frp, hating school a little less 
